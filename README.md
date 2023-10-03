@@ -2,9 +2,13 @@
 
 # Entitys
 /summon newmobs:citizen
+
 /summon newmobs:human
+
 /summon newmobs:rebel
+
 /summon newmobs:stormtrooper
+
 
 
 ![Screenshot (4292)](https://github.com/morgana-x/Bad-Minecraft-Starwars-mod/assets/89588301/80baf2dc-7d7c-43a6-a3a7-a4749a5383b4)

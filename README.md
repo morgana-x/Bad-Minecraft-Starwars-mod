@@ -1,4 +1,4 @@
-# ![logobswm](https://github.com/morgana-x/Bad.Minecraft.Starwars.Mod/assets/89588301/67650543-b49c-4eb8-a83e-055da8bad51c)Bad Minecraft Starwars Mod (BMSM)
+# ![logobswm](https://github.com/morgana-x/Bad.Minecraft.Starwars.Mod/assets/89588301/67650543-b49c-4eb8-a83e-055da8bad51c)Bad Minecraft Starwars Mod (BSWM)
 
 
 # Entitys

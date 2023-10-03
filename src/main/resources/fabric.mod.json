@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "newmobs",
+  "version": "${version}",
+  "name": "New Mob Stuff",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/Lachlan/New Mob Stuff"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/newmobs/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "morgana.newmobs.client.NewMobStuffClient"
+    ],
+    "main": [
+      "morgana.newmobs.NewMobStuff"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

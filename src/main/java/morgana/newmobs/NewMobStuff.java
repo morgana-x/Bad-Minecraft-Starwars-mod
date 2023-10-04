@@ -64,18 +64,7 @@ public class NewMobStuff implements ModInitializer {
                     .build() // VERY IMPORTANT DONT DELETE FOR THE LOVE OF GOD PSLSSSSSS
             );
 
-    public static final ItemGroup STARWARS_GROUP = FabricItemGroup.builder()
-            .icon(() -> new ItemStack(STORMTROOPER_HELMET))
-            .displayName(Text.translatable("itemGroup.newmobs.starwars_group"))
-            .entries((context, entries) -> {
-                entries.add(STORMTROOPER_HELMET);
-                entries.add(STORMTROOPER_CHESTPLATE);
-                entries.add(STORMTROOPER_LEGGINGS);
-                entries.add(STORMTROOPER_BOOTS);
-                entries.add(BLASTER_BASIC);
-            })
 
-            .build();
 
     /*public static final Item HUMAN_SPAWN_EGG = new SpawnEggItem(HUMAN, 0xc4c4c4, 0xadadad, new FabricItemSettings());
 
@@ -113,7 +102,7 @@ public class NewMobStuff implements ModInitializer {
         FabricDefaultAttributeRegistry.register(STORMTROOPER, StormTrooperEntity.createHumanAttributes());
 
 
-        Registry.register(Registries.ITEM_GROUP, new Identifier("newmobs", "starwars_group"), STARWARS_GROUP);
+
 
         /*public static Item register(String id, Item item) {
             return register(new Identifier(id), item);

@@ -1,0 +1,19 @@
+{
+  "item.newmobs.blasterbasic": "Test Blaster",
+
+  "item.newmobs.blue_milk_bucket": "Blue Milk",
+
+  "item.newmobs.human_spawn_egg": "Human Spawn Egg",
+  "item.newmobs.citizen_spawn_egg": "Citizen Spawn Egg",
+  "item.newmobs.rebel_spawn_egg": "Rebel Spawn Egg",
+  "item.newmobs.stormtrooper_spawn_egg": "Stormtrooper Spawn Egg",
+
+  "item.newmobs.stormtrooper_helmet": "Stormtrooper Helmet",
+  "item.newmobs.stormtrooper_chestplate": "Stormtrooper Chestplate",
+  "item.newmobs.stormtrooper_leggings": "Stormtrooper Leggings",
+  "item.newmobs.stormtrooper_boots": "Stormtrooper Boots",
+
+  "itemGroup.newmobs.starwars_group_armor": "BSWM Armor",
+  "itemGroup.newmobs.starwars_group_weapons": "BSWM Weapons",
+  "itemGroup.newmobs.starwars_group_items": "BSWM Items"
+}
